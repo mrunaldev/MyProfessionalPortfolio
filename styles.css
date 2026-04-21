@@ -104,7 +104,7 @@ body {
 
 .hero {
     background: linear-gradient(135deg, rgba(44, 62, 80, 0.8) 0%, rgba(52, 152, 219, 0.8) 100%),
-                url('https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1200') center/cover no-repeat;
+                url('./hero-bg.jpg') center/cover no-repeat;
     background-attachment: fixed;
     color: white;
     padding: 100px 0;
